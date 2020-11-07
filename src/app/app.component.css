@@ -1,0 +1,14 @@
+.nav li a {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.navbar{
+  background-color: #63a4ff;
+background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+}
+.logo{
+  margin-right: 20px;
+}
+.btn-group{
+  margin-top: 15px;
+}
